@@ -1,0 +1,26 @@
+Butterfly
+
+A little butterfly was flying from flower to flower when sun
+was shining. In the evening the rain flooded everything away.
+Poor butterfly.
+
+end
+
+House
+
+Your house is your castle.
+
+end
+
+Night
+
+In the night the darkness lures in the corners. Watch out, there can be
+dangerous!
+
+end
+
+Test
+
+Testikkeli runo tää on! \n Jee, kolee runo
+
+end
